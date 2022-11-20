@@ -6,3 +6,8 @@ img.tengah {
 body.a {
     background-color: #add8e6;
 }
+div.a {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
